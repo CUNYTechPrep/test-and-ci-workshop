@@ -22,6 +22,10 @@ Make a Pull Request back.
 
 ## Resources:
 
+About Testing
+
+- http://web.mit.edu/6.005/www/fa16/classes/03-testing/
+
 Jest
 
 - https://jestjs.io/docs/en/getting-started.html
