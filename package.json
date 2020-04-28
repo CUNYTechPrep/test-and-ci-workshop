@@ -1,0 +1,14 @@
+{
+  "name": "test-and-ci-workshop",
+  "version": "1.0.0",
+  "description": "Learn about testing with Jest and continuous integration (CI) with Travis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Edgardo Molina",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
