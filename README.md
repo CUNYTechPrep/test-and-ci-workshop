@@ -8,6 +8,7 @@ Learn about testing with Jest and continuous integration (CI) with Travis.
 ## Instructions
 
 - Fork this repo
+- Clone your fork
 - `npm install`
 - `npm test -- --watchAll`
 
